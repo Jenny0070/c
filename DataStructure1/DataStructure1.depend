@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1538137800 source:d:\c\datastructure1\sqlist02.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1538139601 source:d:\c\datastructure1\linklist01.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1538215797 source:d:\c\datastructure1\main.cpp
+	<stdio.h>
+
+1538216882 source:d:\c\datastructure1\linklist02.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1538236664 source:d:\c\datastructure1\linklist03.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1538813754 source:d:\c\datastructure1\linklist07.c
+	<stdio.h>
+	<stdlib.h>
+
+1538817586 source:d:\c\datastructure1\test01.c
+
+1538822577 source:d:\c\datastructure1\linklist10.c
+	<stdio.h>
+	<stdlib.h>
+
+1538830707 source:d:\c\datastructure1\linklist09.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1538829315 source:d:\c\datastructure1\linklist11.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1539841435 source:d:\c\datastructure1\struct_1.c
+	<stdio.h>
+	<string.h>
+
+1540394750 source:d:\c\datastructure1\linkl.c
+	<stdio.h>
+	<stdlib.h>
+
+1540429512 source:d:\c\datastructure1\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
