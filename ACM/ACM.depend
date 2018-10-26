@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1536475530 source:d:\c\acm\acm1.c
+	<stdio.h>
+
+1536478491 source:d:\c\acm\acm1001.c
+	<stdio.h>
+
+1536911963 source:d:\c\acm\acm1002.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1446667744 source:d:\c\acm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1538103422 source:d:\c\acm\acm1003.c
+	<stdio.h>
+	<stdlib.h>
+
+1539618498 source:d:\c\acm\acm1004.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
